@@ -70,3 +70,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/My project/Library/ArtifactDB
+/My project/Library/Bee/artifacts/Android/d8kzr/1ibil2cpp.so
+/My project/Library/Bee/artifacts/Android/il2cppOutput/build./1ibil2cpp.dbg.so
+/My project/Library/Bee/artifacts/objcopy_51mi/libil2cpp.dbg.so
+My project/Library/Bee/artifacts
+My project/Library/Bee
+My project/Assets
+My project/ProjectSettings
+My project/Library
+My project/Temp
